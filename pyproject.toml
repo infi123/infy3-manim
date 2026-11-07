@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.12,<3.13"
 dependencies = [
     "manim>=0.22.1",
+    "python-bidi>=0.6.12",
 ]
 
 [project.scripts]
